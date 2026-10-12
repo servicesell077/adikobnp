@@ -1,2 +1,0 @@
-# adikobnp
-service en ligne
